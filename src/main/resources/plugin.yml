@@ -1,0 +1,9 @@
+name: GlassBreaker
+version: '${version}'
+main: com.github.albardoo02.GlassBreaker
+api-version: 1.15
+authors: [ albardoo02 ]
+description: ガラス破壊
+
+commands:
+  /get:
