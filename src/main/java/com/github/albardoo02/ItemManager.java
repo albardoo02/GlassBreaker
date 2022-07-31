@@ -26,6 +26,7 @@ public class ItemManager {
         meta.setLore(lore);
         meta.addEnchant(Enchantment.DURABILITY, 1, true);
         meta.addItemFlags(ItemFlag.HIDE_ENCHANTS);
+        meta.setUnbreakable(true);
         item.setItemMeta(meta);
         hoe = item;
     }
