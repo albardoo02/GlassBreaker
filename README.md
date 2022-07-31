@@ -10,4 +10,4 @@
 瞬時に消し去ります
 
 ## ライセンス/License
-
+[GNU General Public License v3.0](LICENSE)
