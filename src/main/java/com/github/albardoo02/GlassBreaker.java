@@ -8,7 +8,6 @@ public final class GlassBreaker extends JavaPlugin {
     @Override
     public void onEnable() {
         // Plugin startup logic
-        getLogger().info("§3Configを読み込み中...");
         getLogger().info("§3正常に処理が完了しました");
 
         ItemManager.init();
